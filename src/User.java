@@ -33,6 +33,6 @@ public class User {
     }
     
     public static void main(String[] args) {
-        System.out.println("Hello  this.getUsername()  this.getPassword() , Docker!");
+        System.out.println("Hello  this.getUsername()  this.getPassword() , Docker!"); 
     }
 }
